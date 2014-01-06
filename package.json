@@ -33,7 +33,7 @@
         "commondir" : "~0.0.1",
         "coffee-script" : "1.x.x",
         "optimist" : "~0.3.4",
-        "http-browserify" : "~0.1.1",
+        "http-browserify" : "0.1.6",
         "vm-browserify" : "~0.0.0",
         "crypto-browserify": "~0"
     },
